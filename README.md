@@ -40,11 +40,11 @@ EShopCSV is an MVC web application with the following features:
 EShop\EShop.Infrastructure> dotnet run
 ```
 
-## Architecture overview
+## Architecture Overview
 
 The architecture patterns used for this application are based on DDD (Domain-Driven Design) and Command and Query Responsability Segregation (CQRS) approaches using the Mediator pattern.
 
-## Solution overview
+## Solution Overview
 
 ### EShop.Domain
 - POCO entity classes
