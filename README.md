@@ -1,6 +1,6 @@
 # EShopCsv
 
-EShopCSV is an MVC web application with the following features:
+EShopCSV is a MVC web application with the following features:
 - importing a CSV file with product data using the web interface
 - storing the product data in a SQL Server database
 - updating existing product data when importing a CSV file 
